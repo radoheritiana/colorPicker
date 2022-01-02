@@ -1,0 +1,8 @@
+c:\users\rhja\documents\visual studio 2015\Projects\ColorPiker\ColorPiker\bin\Debug\ColorPiker.exe.config
+c:\users\rhja\documents\visual studio 2015\Projects\ColorPiker\ColorPiker\bin\Debug\ColorPiker.exe
+c:\users\rhja\documents\visual studio 2015\Projects\ColorPiker\ColorPiker\bin\Debug\ColorPiker.pdb
+c:\users\rhja\documents\visual studio 2015\Projects\ColorPiker\ColorPiker\obj\Debug\ColorPiker.Properties.Resources.resources
+c:\users\rhja\documents\visual studio 2015\Projects\ColorPiker\ColorPiker\obj\Debug\ColorPiker.csproj.GenerateResource.Cache
+c:\users\rhja\documents\visual studio 2015\Projects\ColorPiker\ColorPiker\obj\Debug\ColorPiker.exe
+c:\users\rhja\documents\visual studio 2015\Projects\ColorPiker\ColorPiker\obj\Debug\ColorPiker.pdb
+c:\users\rhja\documents\visual studio 2015\Projects\ColorPiker\ColorPiker\obj\Debug\ColorPickerCSharp.Form1.resources
